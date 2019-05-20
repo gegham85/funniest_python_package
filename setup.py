@@ -22,7 +22,7 @@ class Test_cmd(Command):
 
 
 setup(
-    name='funniest',
+    name='funniest_test',
     version='0.1',
     description='The funniest joke in the world for learning',
     long_description=readme(),
