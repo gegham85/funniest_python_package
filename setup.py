@@ -26,7 +26,7 @@ setup(
     version='0.1',
     description='The funniest joke in the world for learning',
     long_description=readme(),
-    url='http://github.com/storborg/funniest',
+    url='https://github.com/gegham85/funniest_python_package',
     author='Gegham Movses',
     author_email='gegham.movses@gmail.com',
     license='MIT',
